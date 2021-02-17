@@ -6,4 +6,4 @@ tipp = int( input('Kérem a megoldást ') )
 if eredmeny == tipp:
     print('rendben')
 else:
-  print('Mennyél Tartarosz-ba annak legsötétebbbb helyére! ')
+  print('Sajnos ez nem sikerült! ')
